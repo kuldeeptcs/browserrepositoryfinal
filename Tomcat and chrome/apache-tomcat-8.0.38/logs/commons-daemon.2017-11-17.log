@@ -1,0 +1,61 @@
+[2017-11-17 11:00:59] [info]  [ 8964] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-11-17 11:00:59] [info]  [ 8964] Service Tomcat8 name Apache Tomcat 8.0 Tomcat8
+[2017-11-17 11:00:59] [error] [ 8964] The specified service already exists.
+[2017-11-17 11:00:59] [error] [ 8964] Failed installing 'Tomcat8' service
+[2017-11-17 11:00:59] [error] [ 8964] The specified service already exists.
+[2017-11-17 11:01:00] [error] [ 8964] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2017-11-17 11:01:00] [error] [ 8964] The specified service already exists.
+[2017-11-17 11:01:21] [info]  [ 6928] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-11-17 11:01:21] [info]  [ 6928] Service MyTomcat name Apache Tomcat 8.0 MyTomcat
+[2017-11-17 11:01:21] [info]  [ 6928] Service 'MyTomcat' installed
+[2017-11-17 11:01:22] [info]  [ 6928] Commons Daemon procrun finished
+[2017-11-17 11:02:36] [info]  [ 6104] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-11-17 11:02:36] [info]  [ 6104] Deleting service...
+[2017-11-17 11:02:36] [warn]  [ 6104] Failed to obtain service description
+[2017-11-17 11:02:36] [info]  [ 6104] Delete service finished.
+[2017-11-17 11:02:36] [info]  [ 6104] Commons Daemon procrun finished
+[2017-11-17 11:02:49] [info]  [12968] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-11-17 11:02:49] [info]  [12968] Service MyTomcat name Apache Tomcat 8.0 MyTomcat
+[2017-11-17 11:02:49] [error] [12968] The specified service already exists.
+[2017-11-17 11:02:49] [error] [12968] Failed installing 'MyTomcat' service
+[2017-11-17 11:02:49] [error] [12968] The specified service already exists.
+[2017-11-17 11:02:50] [error] [12968] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2017-11-17 11:02:50] [error] [12968] The specified service already exists.
+[2017-11-17 11:03:17] [info]  [18060] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-11-17 11:03:17] [info]  [18060] Deleting service...
+[2017-11-17 11:03:17] [error] [18060] The specified service does not exist as an installed service.
+[2017-11-17 11:03:17] [info]  [18060] Delete service finished.
+[2017-11-17 11:03:17] [error] [18060] Commons Daemon procrun failed with exit value: 9 (Failed to delete service)
+[2017-11-17 11:03:18] [error] [18060] The specified service does not exist as an installed service.
+[2017-11-17 11:03:38] [info]  [ 8312] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-11-17 11:03:38] [info]  [ 8312] Deleting service...
+[2017-11-17 11:03:38] [error] [ 8312] The specified service does not exist as an installed service.
+[2017-11-17 11:03:38] [info]  [ 8312] Delete service finished.
+[2017-11-17 11:03:38] [error] [ 8312] Commons Daemon procrun failed with exit value: 9 (Failed to delete service)
+[2017-11-17 11:03:38] [error] [ 8312] The specified service does not exist as an installed service.
+[2017-11-17 11:05:14] [info]  [12212] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-11-17 11:05:14] [info]  [12212] Running 'MyTomcat' Service...
+[2017-11-17 11:05:14] [error] [12212] StartServiceCtrlDispatcher for 'MyTomcat' failed
+[2017-11-17 11:05:14] [error] [12212] The service process could not connect to the service controller.
+[2017-11-17 11:05:14] [error] [12212] Commons Daemon procrun failed with exit value: 4 (Failed to run service)
+[2017-11-17 11:05:14] [error] [12212] The service process could not connect to the service controller.
+[2017-11-17 11:06:08] [info]  [ 9576] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-11-17 11:06:08] [info]  [ 9576] Running 'MyTomcat' Service...
+[2017-11-17 11:06:08] [info]  [ 1284] Starting service...
+[2017-11-17 11:06:09] [error] [ 1284] %1 is not a valid Win32 application.
+[2017-11-17 11:06:09] [error] [ 1284] Failed creating java D:\Tools\jdk1.8.0_51\jre\bin\server\jvm.dll
+[2017-11-17 11:06:09] [error] [ 1284] %1 is not a valid Win32 application.
+[2017-11-17 11:06:09] [error] [ 1284] ServiceStart returned 1
+[2017-11-17 11:06:09] [error] [ 1284] %1 is not a valid Win32 application.
+[2017-11-17 11:06:09] [info]  [ 9576] Run service finished.
+[2017-11-17 11:06:09] [info]  [ 9576] Commons Daemon procrun finished
+[2017-11-17 11:06:25] [info]  [11212] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-11-17 11:06:25] [info]  [11212] Running 'MyTomcat' Service...
+[2017-11-17 11:06:25] [info]  [ 7204] Starting service...
+[2017-11-17 11:06:25] [error] [ 7204] %1 is not a valid Win32 application.
+[2017-11-17 11:06:25] [error] [ 7204] Failed creating java D:\Tools\jdk1.8.0_51\jre\bin\server\jvm.dll
+[2017-11-17 11:06:25] [error] [ 7204] %1 is not a valid Win32 application.
+[2017-11-17 11:06:25] [error] [ 7204] ServiceStart returned 1
+[2017-11-17 11:06:26] [error] [ 7204] %1 is not a valid Win32 application.
+[2017-11-17 11:06:26] [info]  [11212] Run service finished.
+[2017-11-17 11:06:26] [info]  [11212] Commons Daemon procrun finished
