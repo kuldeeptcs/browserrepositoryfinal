@@ -40,13 +40,12 @@
             // 
             this.lblValidationMessage.AutoSize = true;
             this.lblValidationMessage.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.lblValidationMessage.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblValidationMessage.Font = new System.Drawing.Font("Effra", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblValidationMessage.ForeColor = System.Drawing.Color.Crimson;
             this.lblValidationMessage.Location = new System.Drawing.Point(12, 205);
             this.lblValidationMessage.Name = "lblValidationMessage";
-            this.lblValidationMessage.Size = new System.Drawing.Size(274, 13);
+            this.lblValidationMessage.Size = new System.Drawing.Size(0, 13);
             this.lblValidationMessage.TabIndex = 9;
-            this.lblValidationMessage.Text = "Note: Feedback should be alphanumeric characters only";
             this.lblValidationMessage.Visible = false;
             // 
             // btnClose
@@ -71,12 +70,12 @@
             // 
             // txtFeedbackBox
             // 
-            this.txtFeedbackBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtFeedbackBox.Location = new System.Drawing.Point(15, 37);
+            this.txtFeedbackBox.Font = new System.Drawing.Font("Effra", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtFeedbackBox.Location = new System.Drawing.Point(12, 54);
             this.txtFeedbackBox.MaxLength = 500;
             this.txtFeedbackBox.Multiline = true;
             this.txtFeedbackBox.Name = "txtFeedbackBox";
-            this.txtFeedbackBox.Size = new System.Drawing.Size(457, 165);
+            this.txtFeedbackBox.Size = new System.Drawing.Size(460, 148);
             this.txtFeedbackBox.TabIndex = 6;
             this.txtFeedbackBox.TabStop = false;
             this.txtFeedbackBox.TextChanged += new System.EventHandler(this.txtFeedbackBox_TextChanged);
@@ -85,12 +84,13 @@
             // lblHeadline
             // 
             this.lblHeadline.AutoSize = true;
-            this.lblHeadline.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHeadline.Font = new System.Drawing.Font("Effra", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHeadline.Location = new System.Drawing.Point(12, 17);
             this.lblHeadline.Name = "lblHeadline";
             this.lblHeadline.Size = new System.Drawing.Size(272, 17);
             this.lblHeadline.TabIndex = 5;
             this.lblHeadline.Text = "We really appreciate your comments";
+            this.lblHeadline.Click += new System.EventHandler(this.lblHeadline_Click);
             // 
             // FeedbackForm
             // 
@@ -102,7 +102,7 @@
             this.Controls.Add(this.btnSend);
             this.Controls.Add(this.txtFeedbackBox);
             this.Controls.Add(this.lblHeadline);
-            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Font = new System.Drawing.Font("Effra", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;

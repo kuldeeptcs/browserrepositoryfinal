@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <assemblyIdentity name="Medtronic_IEAddOn, PublicKeyToken=e73090f73b4c1df3" imageRuntimeVersion="v4.0.30319" />
+  <loaderSettings generateLogFile="true" shadowCopyEnabled="false" privileges="administrator" configFileName="Medtronic.IEAddOn.dll.config" />
+</configuration>

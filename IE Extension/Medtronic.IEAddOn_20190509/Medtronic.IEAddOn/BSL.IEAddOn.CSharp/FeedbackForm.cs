@@ -50,12 +50,15 @@ namespace Medtronic_IEAddOn
     {
       lblValidationMessage.Hide();
 
-      /* call database insertion in case of any text found only */
-      if (txtFeedbackBox.Text.Length > 0)// || txtFeedbackBox.Text != "Type Message...")
-        CallServletAndInsertDataToDatabaseOnSend();
-      else
-        MessageBox.Show(Constants.SuccessMessage);
-    }
+            /* call database insertion in case of any text found only */
+            if (txtFeedbackBox.Text.Length > 0)// || txtFeedbackBox.Text != "Type Message...")
+                CallServletAndInsertDataToDatabaseOnSend();
+            else
+            {
+                MessageBox.Show(Constants.SuccessMessage);
+            }
+            this.Close();
+        }
 
     private void CallServletAndInsertDataToDatabaseOnSend()
     {
@@ -105,20 +108,25 @@ namespace Medtronic_IEAddOn
 
     private void txtFeedbackBox_KeyPress(object sender, KeyPressEventArgs e)
     {
-      if (Char.IsLetterOrDigit(e.KeyChar) // Allowing only any letter OR Digit
-      || e.KeyChar == '\b' || e.KeyChar == 8 || e.KeyChar == 32)  // Allowing BackSpace, space and enter character
-      {
-        e.Handled = false;
-      }
-      else
-      {
-        e.Handled = true;
-      }
+      //if (Char.IsLetterOrDigit(e.KeyChar) // Allowing only any letter OR Digit
+      //|| e.KeyChar == '\b' || e.KeyChar == 8 || e.KeyChar == 32)  // Allowing BackSpace, space and enter character
+      //{
+      //  e.Handled = false;
+      //}
+      //else
+      //{
+      //  e.Handled = true;
+      //}
     }
 
     private void txtFeedbackBox_TextChanged(object sender, EventArgs e)
     {
       //TODO : TODO check for special characters
     }
-  }
+
+        private void lblHeadline_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

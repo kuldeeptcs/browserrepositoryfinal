@@ -40,7 +40,7 @@ namespace Medtronic_IEAddOn
 
     private void SmileRoutine()
     {
-      CallServletAndInsertDataToDatabaseOnSmileyClick("0");
+    //  CallServletAndInsertDataToDatabaseOnSmileyClick("0");
       FeedbackForm feedbackForm = new FeedbackForm(SmileyType.Smile.ToString(), URLPath, RecordID);
       this.Close();
       feedbackForm.Show();
@@ -53,7 +53,7 @@ namespace Medtronic_IEAddOn
 
     private void FrownRoutine()
     {
-      CallServletAndInsertDataToDatabaseOnSmileyClick("1");
+   //   CallServletAndInsertDataToDatabaseOnSmileyClick("1");
       FeedbackForm feedbackForm = new FeedbackForm(SmileyType.Frown.ToString(), URLPath, RecordID);
       this.Close();
       feedbackForm.Show();

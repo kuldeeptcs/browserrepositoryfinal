@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 19
+VisualStudioVersion = 16.6.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medtronic.IEAddOn", "BSL.IEAddOn.CSharp\Medtronic.IEAddOn.csproj", "{5E8AAC64-9B68-451C-98E5-01D3DDABF431}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Medtronic.IEAddOnSetup(1.0.0)", "BSL.IEAddOn.CSharp\Medtronic.IEAddOnSetup\1.0.0\Medtronic.IEAddOnSetup(1.0.0).vdproj", "{C1C664D9-8F3C-498A-BD71-64DFE20B195C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E8AAC64-9B68-451C-98E5-01D3DDABF431}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8AAC64-9B68-451C-98E5-01D3DDABF431}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{5E8AAC64-9B68-451C-98E5-01D3DDABF431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E8AAC64-9B68-451C-98E5-01D3DDABF431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E8AAC64-9B68-451C-98E5-01D3DDABF431}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E8AAC64-9B68-451C-98E5-01D3DDABF431}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{5E8AAC64-9B68-451C-98E5-01D3DDABF431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8AAC64-9B68-451C-98E5-01D3DDABF431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E8AAC64-9B68-451C-98E5-01D3DDABF431}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8AAC64-9B68-451C-98E5-01D3DDABF431}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{C1C664D9-8F3C-498A-BD71-64DFE20B195C}.CD_ROM|Any CPU.ActiveCfg = Release
+		{C1C664D9-8F3C-498A-BD71-64DFE20B195C}.CD_ROM|Any CPU.Build.0 = Release
+		{C1C664D9-8F3C-498A-BD71-64DFE20B195C}.Debug|Any CPU.ActiveCfg = Debug
+		{C1C664D9-8F3C-498A-BD71-64DFE20B195C}.Debug|Any CPU.Build.0 = Debug
+		{C1C664D9-8F3C-498A-BD71-64DFE20B195C}.DVD-5|Any CPU.ActiveCfg = Debug
+		{C1C664D9-8F3C-498A-BD71-64DFE20B195C}.DVD-5|Any CPU.Build.0 = Debug
+		{C1C664D9-8F3C-498A-BD71-64DFE20B195C}.Release|Any CPU.ActiveCfg = Release
+		{C1C664D9-8F3C-498A-BD71-64DFE20B195C}.Release|Any CPU.Build.0 = Release
+		{C1C664D9-8F3C-498A-BD71-64DFE20B195C}.SingleImage|Any CPU.ActiveCfg = Release
+		{C1C664D9-8F3C-498A-BD71-64DFE20B195C}.SingleImage|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,52 @@
+<html id="h">
+<head>
+   <script src="jquery-3.2.1.min.js"></script>			
+   <script type="text/javascript" src="popup.js"></script>
+   <link rel="stylesheet" href="/css/extension.css">
+</head>
+
+<body id="form" style="background-color: #f7f7f7;">
+<div id="popup">
+<table id="smileblock">
+  <tr style="cursor:pointer;">
+    <td>
+      <a href="#feedbackform" id="smile"><img src="/icons/smile.png" width="20" height="20" title="Send smile"/></a>
+    </td>
+    <td>
+        <a href="#feedbackform" id="smile1"><label style="font-size: 12px;cursor:pointer;">Send a Smile</label></a>
+    </td>
+  </tr>
+  <tr></tr>
+  <tr style="cursor:pointer;">
+    <td>
+        <a href="#feedbackform" id="frown"><img src="/icons/frown.png" width="20" height="20" title="Send frown"/></a>
+    </td>
+    <td>
+        <a href="#feedbackform" id="frown1"><label style="font-size: 12px;;cursor:pointer;">Send a Frown</label>
+    </td>
+  </tr>
+</table>
+</div>
+<form id="feedbackform" style="display: none;"> 
+<div id="feed" >
+<input type="hidden" name="result" value="" id="resultId"/>
+<input type="hidden" name="saveSmiley" value="0" id="saveSmiley"/>
+
+<table align="center" width="90%">
+  
+    <tr><td><h4 for="msg" id="heading" style="font-family:sans-serif;color: #004B87;"><span></span></h4>
+	<label for="msg" id="yourFeedback" style="font-family:sans-serif;color: #004B87;" ><font size="2"><span></span></font></label></td></tr>
+    <tr><td></td></tr>
+	<tr ><td colspan="3" align="center">
+	<textarea placeholder="Type message..." maxlength ="500" name="msg"  id="msg"  style="Effra, Arial, sans-serif;font: inherit;" pattern="[a-zA-Z0-9]"></textarea></td></tr>
+	<tr ><td><span id="valerror"></span>
+	</td></tr>
+	<tr></tr>
+    <tr><td><button type="submit" id="send" class="button">Send</button>
+			<button type="button" class="button" id="close">Close</button>
+    </td></tr>
+	</table>
+  </div>
+</form>
+</body>
+</html>

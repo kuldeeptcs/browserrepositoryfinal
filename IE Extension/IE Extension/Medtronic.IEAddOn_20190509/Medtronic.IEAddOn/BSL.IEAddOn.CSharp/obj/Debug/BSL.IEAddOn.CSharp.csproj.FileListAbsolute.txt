@@ -1,0 +1,14 @@
+D:\Dipesh\Medtronic\BSL.IEAddOn.CSharp\BSL.IEAddOn.CSharp\bin\Debug\BSL.IEAddOn.CSharp.dll
+D:\Dipesh\Medtronic\BSL.IEAddOn.CSharp\BSL.IEAddOn.CSharp\bin\Debug\BSL.IEAddOn.CSharp.pdb
+D:\Dipesh\Medtronic\BSL.IEAddOn.CSharp\BSL.IEAddOn.CSharp\bin\Debug\Interop.MSHTML.dll
+D:\Dipesh\Medtronic\BSL.IEAddOn.CSharp\BSL.IEAddOn.CSharp\bin\Debug\Interop.SHDocVw.dll
+D:\Dipesh\Medtronic\BSL.IEAddOn.CSharp\BSL.IEAddOn.CSharp\obj\Debug\BSL_IEAddOn_CSharp.Icons.resources
+D:\Dipesh\Medtronic\BSL.IEAddOn.CSharp\BSL.IEAddOn.CSharp\obj\Debug\BSL_IEAddOn_CSharp.IEModule.resources
+D:\Dipesh\Medtronic\BSL.IEAddOn.CSharp\BSL.IEAddOn.CSharp\obj\Debug\BSL.IEAddOn.CSharp.csproj.GenerateResource.Cache
+D:\Dipesh\Medtronic\BSL.IEAddOn.CSharp\BSL.IEAddOn.CSharp\obj\Debug\BSL.IEAddOn.CSharp.dll
+D:\Dipesh\Medtronic\BSL.IEAddOn.CSharp\BSL.IEAddOn.CSharp\obj\Debug\BSL.IEAddOn.CSharp.pdb
+D:\Dipesh\Medtronic\BSL.IEAddOn.CSharp\BSL.IEAddOn.CSharp\bin\Debug\SmileyPopup.html
+D:\Dipesh\Medtronic\BSL.IEAddOn.CSharp\BSL.IEAddOn.CSharp\obj\Debug\BSL_IEAddOn_CSharp.SmileyPopup.resources
+D:\Dipesh\Medtronic\BSL.IEAddOn.CSharp\BSL.IEAddOn.CSharp\obj\Debug\BSL_IEAddOn_CSharp.FeedbackForm.resources
+D:\Dipesh\Medtronic\BSL.IEAddOn.CSharp\BSL.IEAddOn.CSharp\bin\Debug\BSL.IEAddOn.CSharp.tlb
+D:\Dipesh\Medtronic\BSL.IEAddOn.CSharp\BSL.IEAddOn.CSharp\obj\Debug\BSL.IEAddOn.CSharp.csprojResolveAssemblyReference.cache

@@ -119,6 +119,7 @@
     <Content Include="Loader\adxloader64.dll" />
     <Content Include="Resources\Chat_1.ico" />
     <Content Include="Resources\Chat_48.ico" />
+    <Content Include="Resources\Chat_481.ico" />
     <Content Include="Resources\SampleIcon1.ico" />
     <Content Include="Resources\SampleIcon2.ico" />
     <Content Include="SmileyPopup.html">

@@ -1,0 +1,18 @@
+{
+	"name": "Medtronic Feedback Extension",
+	"version": "0.0.2",
+	"description": "This extension is to capture the feedback of Medtronic Applications ",
+	"manifest_version": 2,
+	"page_action": {
+		"default_icon": "/icons/MDT_feedback_circle_120x120.png",
+		"default_popup": "popup.html"
+	},
+	"permissions": [
+        "activeTab","declarativeContent","http://10.158.35.231:8090/"
+    ],
+	"background":{
+		"scripts": ["jquery-3.2.1.min.js","background.js"],
+		"persistent":false
+	},
+	"content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'"
+}

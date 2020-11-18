@@ -61,3 +61,21 @@ C:\Users\kausen2\Desktop\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddO
 C:\Users\kausen2\Desktop\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\obj\Debug\Medtronic_IEAddOn.dll
 C:\Users\kausen2\Desktop\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\obj\Debug\Medtronic_IEAddOn.pdb
 C:\Users\kausen2\Desktop\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\bin\Debug\Medtronic_IEAddOn.tlb
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\bin\Debug\Medtronic_IEAddOn.dll
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\bin\Debug\SmileyPopup.html
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\bin\Debug\App.config
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\bin\Debug\Medtronic_IEAddOn.dll.config
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\bin\Debug\Medtronic_IEAddOn.pdb
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\bin\Debug\Medtronic_IEAddOn.tlb
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\bin\Debug\Interop.MSHTML.dll
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\bin\Debug\Interop.SHDocVw.dll
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\obj\Debug\Medtronic_IEAddOn.FeedbackForm.resources
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\obj\Debug\Medtronic_IEAddOn.Icons.resources
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\obj\Debug\Medtronic_IEAddOn.IEModule.resources
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\obj\Debug\Medtronic_IEAddOn.SmileyPopup.resources
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\obj\Debug\Medtronic.IEAddOn.csproj.GenerateResource.Cache
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\obj\Debug\Medtronic_IEAddOn.dll
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\obj\Debug\Medtronic_IEAddOn.pdb
+C:\Browser Extension\IE Extension\Medtronic.IEAddOn_20190509\Medtronic.IEAddOn\BSL.IEAddOn.CSharp\obj\Debug\Medtronic.IEAddOn.csprojResolveAssemblyReference.cache
